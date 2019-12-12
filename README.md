@@ -8,7 +8,9 @@
 - Como limpar o float, com a propriedade clear do CSS
 
 ## Adaptando a página inicial
-
+- A utilizar fontes externas nas nossas páginas
+- Como incorporar um mapa à nossa página
+- Como incorporar um vídeo à nossa página
 ## Conteúdo externo
 
 ## Melhorando o CSS
