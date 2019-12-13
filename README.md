@@ -57,6 +57,9 @@ main p:not(#missao) {
 - Como adicionar um sombreamento em textos, com a propriedade CSS text-shadow
 
 ## Design responsivo
+- Design responsivo: como ajustar o estilo da nossa página de acordo com o tamanho da tela do dispositivo que a acesse
+- Meta tag de Viewport
+- Media Queries
 
 
 
