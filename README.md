@@ -14,6 +14,10 @@
 ## Conteúdo externo
 
 ## Melhorando o CSS
+- A melhorar mais ainda a semântica da página principal, com novas divisões, classes, etc
+- Novas pseudo-classes
+- Como aplicar um background gradiente na página
+- Pseudo-elementos
 
 ## Selecionando qualquer coisa
 
